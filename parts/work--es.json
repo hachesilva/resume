@@ -1,0 +1,69 @@
+{
+    "work": [
+        {
+            "company": "Endava",
+            "position": "Engineer (Senior Developer)",
+            "website": "",
+            "location": "Medellín, Colombia",
+            "summary": "Front-end web development for multi-million US companies managing corporate expenses via cloud apps and others creating websites for professionals in the healthcare and legal sectors.\n\nFront-end web development.",
+            "isCurrentRole": true,
+            "startDate": "2015-12-01",
+            "highlights": []
+        },
+        {
+            "company": "SeeD EM",
+            "position": "Front-end team lead",
+            "website": "",
+            "location": "Bogotá, Colombia",
+            "summary": "Lead a small team of front-end developers transition from traditional front-end tooling into modern preprocessors, libraries and frameworks.\nWeb development for South American prominent media, print and fashion companies.\n\nFront-end development.",
+            "isCurrentRole": false,
+            "startDate": "2013-06-01",
+            "endDate": "2015-12-01",
+            "highlights": []
+        },
+        {
+            "company": "CódigoSelecto S.A.S.",
+            "position": "UI Designer and Front-end developer",
+            "website": "",
+            "location": "Medellín, Colombia",
+            "summary": "UI design and front-end coding on projects for organizations such as Colombia's biggest public university and energy trading companies.\n\nUI design. UX research. Front-end coding.",
+            "isCurrentRole": false,
+            "startDate": "2011-02-01",
+            "endDate": "2013-02-01",
+            "highlights": []
+        },
+        {
+            "company": "CIDET",
+            "position": "UI/UX Consultant",
+            "website": "",
+            "location": "Medellín, Colombia",
+            "summary": "UI and UX consulting for a new project facing non-technical users.\n\nUI design, UX research, front-end code optimization.",
+            "isCurrentRole": false,
+            "startDate": "2011-03-01",
+            "endDate": "2011-09-01",
+            "highlights": []
+        },
+        {
+            "company": "DDB Tribal Colombia",
+            "position": "Web Developer and UI Design Assistant",
+            "website": "",
+            "location": "Medellín, Colombia",
+            "summary": "Web development for the biggest bank in Colombia and several national fashion brands.\n\nFront-end coding. UI design.",
+            "isCurrentRole": false,
+            "startDate": "2010-02-01",
+            "endDate": "2010-04-01",
+            "highlights": []
+        },
+        {
+            "company": "WeThink Marketing",
+            "position": "Web Programmer",
+            "website": "",
+            "location": "Medellín, Colombia",
+            "summary": "Web development for multi-million US companies in the fashion, media and transportation industries serving content to millions of users a month.\n\nWordPress, Drupal and CakePHP web development. Flash animation. Front-end coding.",
+            "isCurrentRole": false,
+            "startDate": "2008-11-01",
+            "endDate": "2009-10-01",
+            "highlights": []
+        }
+    ]
+}

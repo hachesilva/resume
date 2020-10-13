@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "sections": {
+            "profile": "Profile",
+            "work": "Work Experience",
+            "skills": "Skills",
+            "languages": "Languages",
+            "networks": "Social Networks",
+            "awards": "Awards",
+            "interests": "Interests",
+            "projects": "Projects",
+            "publications": "Publications",
+            "references": "References",
+            "volunteer": "Volunteer",
+            "education": "Education"
+        }
+    }
+}

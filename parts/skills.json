@@ -1,0 +1,31 @@
+{
+    "skills": [
+        {
+            "id": "sk1",
+            "name": "Front-end development",
+            "level": "",
+            "rating": 0,
+            "yearsOfExperience": 12,
+            "keywords": [
+                "HTML5",
+                "CSS3",
+                "Sass",
+                "JavaScript",
+                "VueJS"
+            ]
+        },
+        {
+            "id": "sk2",
+            "name": "UI/UX Design",
+            "level": "",
+            "rating": 0,
+            "yearsOfExperience": 10,
+            "keywords": [
+                "Sketch",
+                "Figma",
+                "Adobe Photoshop",
+                "Adobe Illustrator"
+            ]
+        }
+    ]
+}

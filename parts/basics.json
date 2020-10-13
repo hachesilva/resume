@@ -1,0 +1,59 @@
+{
+    "basics": {
+        "name": "Hernán Silva",
+        "email": "hachesilva@gmail.com",
+        "phone": "",
+        "website": "https://hachesilva.com",
+        "picture": "https://avatars3.githubusercontent.com/u/1099313?v=4",
+        "yearsOfExperience": "",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Medellín",
+            "countryCode": "CO",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "hachesilva",
+                "url": "https://github.com/hachesilva"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "hachesilva",
+                "url": "https://linkedin.com/in/hachesilva"
+            },
+            {
+                "network": "Twitter",
+                "username": "hachesilva",
+                "url": "https://twitter.com/hachesilva"
+            },
+            {
+                "network": "Stack Overflow",
+                "username": "hachesilva",
+                "url": "https://stackoverflow.com/users/1644311"
+            },
+            {
+                "_network": "Reddit",
+                "username": "hachesilva",
+                "url": "https://reddit.com/user/hachesilva"
+            },
+            {
+                "_network": "AngelList",
+                "username": "hachesilva",
+                "url": "https://angel.co/hachesilva"
+            },
+            {
+                "_network": "Behance",
+                "username": "hachesilva",
+                "url": "https://behance.net/hachesilva"
+            },
+            {
+                "_network": "Dribbble",
+                "username": "hachesilva",
+                "url": "https://dribbble.com/hachesilva"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "education": [
+        {
+            "institution": "Universidad de Antioquia",
+            "area": "Systems Engineering",
+            "studyType": "(Undergraduate)",
+            "website": "",
+            "startDate": "2004-06-01",
+            "endDate": "2009-11-01",
+            "description": "",
+            "activities": "",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "volunteer": [],
+    "awards": [
+        {
+            "title": "Certified Scrum Developer (CSD)",
+            "summary": "https://www.scrumalliance.org/community/profile/hsilva13",
+            "awarder": "Scrum Alliance",
+            "date": "2018-08-01"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "CEFR B2"
+        }
+    ],
+    "interests": [],
+    "references": []
+}
