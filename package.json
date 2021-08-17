@@ -15,6 +15,6 @@
     "dotsunited-merge-json": "^3.0.0"
   },
   "dependencies": {
-    "jsonresume-theme-hachesilva-FA5": "file:jsonresume-theme-hachesilva"
+    "jsonresume-theme-hachesilva": "file:jsonresume-theme-hachesilva"
   }
 }

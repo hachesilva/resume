@@ -4,14 +4,16 @@
         "email": "hachesilva@gmail.com",
         "phone": "",
         "website": "https://hachesilva.com",
+        "url": "https://hachesilva.com",
         "picture": "https://avatars3.githubusercontent.com/u/1099313?v=4",
+        "image": "https://avatars3.githubusercontent.com/u/1099313?v=4",
         "yearsOfExperience": "",
         "location": {
             "address": "",
             "postalCode": "",
             "city": "Medellín",
             "countryCode": "CO",
-            "region": ""
+            "region": "Antioquia"
         },
         "profiles": [
             {
