@@ -1,44 +1,104 @@
 {
     "work": [
         {
+            "company": "Betcris",
+            "name": "Betcris",
+            "position": "Full-Stack Web Development Consultant",
+            "website": "https://betcris.com/",
+            "url": "https://betcris.com/",
+            "location": "Remote",
+            "_location": {
+                "city": "Remote"
+            },
+            "summary": "Renewed the company's main sites using a custom WordPress-based solution",
+            "isCurrentRole": true,
+            "startDate": "2023-02-14",
+            "_endDate": "",
+            "highlights": [
+                "Migrated Betcris websites' architecture from a custom solution to SEO-optimized <mark>WordPress</mark> sites",
+                "Developed custom <mark>Elementor</mark> plugins and widgets to facilitate the task of publishing complex formatted data such as locations, casino games and testimonials",
+                "Used <mark>Vue.js</mark> to render data coming from third-party APIs into WordPress fueled pages"
+            ]
+        },
+        {
             "company": "Endava",
             "name": "Endava",
-            "position": "Engineer (Senior Developer)",
-            "website": "",
-            "url": "",
+            "position": "Engineer (Senior developer)",
+            "website": "https://www.endava.com/",
+            "url": "https://www.endava.com/",
             "location": "Medellín, Colombia",
-            "summary": "Front-end web development for multi-million US companies managing corporate expenses via cloud apps and others creating websites for professionals in the healthcare and legal sectors.\n\nFront-end web development.",
-            "isCurrentRole": true,
+            "_location": {
+                "city": "Medellín, Colombia"
+            },
+            "summary": "Developed websites and applications for series-D funded startups and multi-million US companies",
+            "isCurrentRole": false,
             "startDate": "2015-12-01",
+            "endDate": "2023-02-13",
             "highlights": [
-                "Worked with series-B and series-C startups establishing front-end systems for e-commerce and subscription businesses"
+                "Helped <a href='https://birchbox.com/'><mark>Birchbox</mark></a> migrate its front-end architecture from Magento templates to a <mark>Shopify</mark>-fueled and <mark>React</mark>-based storefront",
+                "Used HTML, <mark>Sass</mark>, <mark>Javascript</mark> and <mark>PHP</mark> to help <mark>Internet Brands</mark> build a more performant, SEO-optimized version of its website building tool",
+                "Worked with <mark>ChromeRiver</mark> migrating its app's front-end architecture from jQuery and Ember to <mark>AngularJS</mark> + <mark>Bootstrap</mark>"
             ]
         },
         {
             "company": "SeeD EM",
             "name": "SeeD EM",
             "position": "Front-end team lead",
-            "website": "",
-            "url": "",
+            "website": "https://www.seed.co/",
+            "url": "https://www.seed.co/",
             "location": "Bogotá, Colombia",
-            "summary": "Lead a small team of front-end developers transition from traditional front-end tooling into modern preprocessors, libraries and frameworks.\nWeb development for South American prominent media, print and fashion companies.\n\nFront-end development.",
+            "_location": {
+                "city": "Bogotá, Colombia"
+            },
+            "summary": "Led a team of developers in the transition from traditional front-end practices to a modern architecture and tooling",
             "isCurrentRole": false,
             "startDate": "2013-06-01",
             "endDate": "2015-12-01",
-            "highlights": []
+            "highlights": [
+                "Helped <mark>Millicom-Tigo</mark>, an international telecom company, build a <mark>Drupal</mark>-based backoffice for B2B transactions",
+                "Worked hand-in-hand with El Tiempo, Totto, Blu Radio, MetroCuadrado, Banco Caja Social and more prominent LatAm companies in the media, print, banking and fashion industries to re-engineer <mark>Drupal</mark>-powered websites, CRMs and internal tools"
+            ]
         },
         {
-            "company": "CódigoSelecto S.A.S.",
-            "name": "CódigoSelecto S.A.S.",
-            "position": "UI Designer and Front-end developer",
+            "company": "- Freelance -",
+            "name": "- Freelance -",
+            "position": "Web developer",
             "website": "",
             "url": "",
             "location": "Medellín, Colombia",
-            "summary": "UI design and front-end coding on projects for organizations such as Colombia's biggest public university and energy trading companies.\n\nUI design. UX research. Front-end coding.",
+            "_location": {
+                "city": "Medellín, Colombia"
+            },
+            "summary": "Helped some of the biggest colombian companies create and maintain WordPress and Drupal websites serving content to millions of users",
+            "isCurrentRole": false,
+            "startDate": "2013-02-01",
+            "endDate": "2013-05-30",
+            "highlights": [
+                "Worked with <mark>Compañia Nacional de Chocolates</mark>, one of the largest chocolate producers in LatAm, to convert its main site from a legacy codebase to a Drupal-powered information portal",
+                "Helped <mark>NafNaf</mark>, a colombian fashion brand, create <mark>Drupal</mark>-based blog serving content to 10.000+ monthly visitors",
+                "Created a WordPress-fueled blog for <mark>Argos</mark>, the largest cement and concrete producer in Colombia",
+                "Used <mark>PHP</mark> and <mark>JavaScript</mark> to create promotional landing pages and apps for <mark>AKT</mark>, a motorcycle manufacturer selling to millions of people in Colombia",
+                "Produced landing pages and microsites for Contex and Chocolyne, 2 colombian brands in the construction and food industries"
+            ]
+        },
+        {
+            "company": "CódigoSelecto",
+            "name": "CódigoSelecto",
+            "position": "UI Designer and front-end developer",
+            "website": "",
+            "url": "",
+            "location": "Medellín, Colombia",
+            "_location": {
+                "city": "Medellín, Colombia"
+            },
+            "summary": "Designed interfaces and developed front-end projects for organizations in the public and private sectors",
             "isCurrentRole": false,
             "startDate": "2011-02-01",
             "endDate": "2013-02-01",
-            "highlights": []
+            "highlights": [
+                "Designed and coded 30+ interfaces of a resources management app for <mark>Universidad Nacional de Colombia</mark>, the most notorious public university in the country",
+                "Worked with a private-funded company to design and code interfaces for an energy trading platform facing clients from across LatAm"
+            ]
         },
         {
             "company": "CIDET",
@@ -47,37 +107,57 @@
             "website": "",
             "url": "",
             "location": "Medellín, Colombia",
-            "summary": "UI and UX consulting for a new project facing non-technical users.\n\nUI design, UX research, front-end code optimization.",
+            "_location": {
+                "city": "Medellín, Colombia"
+            },
+            "summary": "Designed and coded a process optimization app for IT startups",
             "isCurrentRole": false,
             "startDate": "2011-03-01",
             "endDate": "2011-09-01",
-            "highlights": []
+            "highlights": [
+                "Designed and coded the front-end for an internal tool that manages projects in the IT industry",
+                "Helped CIDET researching, designing and coding interfaces for a resource management system"
+            ]
         },
         {
             "company": "DDB Tribal Colombia",
             "name": "DDB Tribal Colombia",
-            "position": "Web Developer and UI Design Assistant",
+            "position": "Web developer and UI design assistant",
             "website": "",
             "url": "",
             "location": "Medellín, Colombia",
-            "summary": "Web development for the biggest bank in Colombia and several national fashion brands.\n\nFront-end coding. UI design.",
+            "_location": {
+                "city": "Medellín, Colombia"
+            },
+            "summary": "Worked with and ad agency bringing more clients to big colombian companies in the banking and fashion industries",
             "isCurrentRole": false,
             "startDate": "2010-02-01",
             "endDate": "2010-04-01",
-            "highlights": []
+            "highlights": [
+                "Designed and developed microsites and landing pages for <mark>Gef</mark> and <mark>Punto Blanco</mark>, colombian fashion brands",
+                "Developed <mark>PHP</mark> and <mark>WordPress</mark> landing pages for <mark>Bancolombia</mark>, the biggest bank in Colombia"
+            ]
         },
         {
             "company": "WeThink Marketing",
             "name": "WeThink Marketing",
-            "position": "Web Programmer",
+            "position": "Web developer",
             "website": "",
             "url": "",
             "location": "Medellín, Colombia",
-            "summary": "Web development for multi-million US companies in the fashion, media and transportation industries serving content to millions of users a month.\n\nWordPress, Drupal and CakePHP web development. Flash animation. Front-end coding.",
+            "_location": {
+                "city": "Medellín, Colombia"
+            },
+            "summary": "Developed websites and designed digital ad pieces for multi-million US companies in the fashion, media and transportation industries",
             "isCurrentRole": false,
             "startDate": "2008-11-01",
             "endDate": "2009-10-01",
-            "highlights": []
+            "highlights": [
+                "Helped <mark>Victoria's Secret</mark> translate its website and microsites into 5+ languages using <mark>PHP</mark> and <mark>Javascript</mark>",
+                "Created front-end promotional apps for Levi's",
+                "Translated <mark>American Airlines</mark> regional microsites into 5+ languages using Macromedia / <mark>Adobe Flash</mark>, <mark>ActionScript</mark> and <mark>Javascript</mark>",
+                "Used <mark>Adobe Flash</mark> and <mark>ActionScript</mark> to design and code ads for <mark>Ford</mark>, <mark>Levi's</mark>, <mark>Akamai</mark> and <mark>Victoria's Secret</mark>"
+            ]
         }
     ]
 }

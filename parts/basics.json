@@ -9,11 +9,11 @@
         "image": "https://avatars3.githubusercontent.com/u/1099313?v=4",
         "yearsOfExperience": "",
         "location": {
-            "address": "",
+            "address": "(GMT-5)",
             "postalCode": "",
             "city": "Medellín",
             "countryCode": "CO",
-            "region": "Antioquia"
+            "region": ""
         },
         "profiles": [
             {
@@ -27,7 +27,7 @@
                 "url": "https://linkedin.com/in/hachesilva"
             },
             {
-                "network": "Twitter",
+                "_network": "Twitter",
                 "username": "hachesilva",
                 "url": "https://twitter.com/hachesilva"
             },

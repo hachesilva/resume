@@ -4,14 +4,17 @@
   "description": "Resume information and generator",
   "main": "index.js",
   "scripts": {
-    "build-en": "dotsunited-merge-json ./parts/meta--en.json ./parts/basics.json ./parts/basics--en.json ./parts/skills.json ./parts/work--en.json ./parts/extra--en.json > resume.json",
-    "build-es": "dotsunited-merge-json ./parts/meta--es.json ./parts/basics.json ./parts/basics--es.json ./parts/skills.json ./parts/work--es.json ./parts/extra--es.json > resume.json",
-    "serve-en": "npm run build-en && resume serve --port 4001",
-    "serve-es": "npm run build-es && resume serve --port 4001"
+    "watch-es": "chokidar \"parts/*.json\" -c \"npm run build-es\"",
+    "watch-en": "chokidar \"parts/*.json\" -c \"npm run build-en\"",
+    "build-en": "dotsunited-merge-json ./parts/basics.json ./parts/basics--en.json ./parts/skills.json ./parts/work--en.json ./parts/extra--en.json > resume.json",
+    "build-es": "dotsunited-merge-json ./parts/basics.json ./parts/basics--es.json ./parts/skills.json ./parts/work--es.json ./parts/extra--es.json > resume.json",
+    "serve-en": "npm run build-en && npm run watch-en & resume serve --port 4001",
+    "serve-es": "npm run build-es && npm run watch-es & resume serve --port 4001"
   },
   "author": "@hachesilva",
   "license": "MIT",
   "devDependencies": {
+    "chokidar-cli": "^3.0.0",
     "dotsunited-merge-json": "^3.0.0"
   },
   "dependencies": {

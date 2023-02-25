@@ -4,38 +4,90 @@
             "institution": "Universidad de Antioquia",
             "area": "Systems Engineering",
             "studyType": "(Undergraduate)",
+
             "website": "",
             "url": "",
+
             "startDate": "2004-06-01",
             "endDate": "2009-11-01",
+
             "description": "",
             "activities": "",
+
             "gpa": "",
             "score": "",
+
             "courses": []
-        }
-    ],
-    "projects": [],
-    "publications": [],
-    "volunteer": [],
-    "awards": [
-        {
-            "title": "Certified Scrum Developer (CSD)",
-            "summary": "https://www.scrumalliance.org/community/profile/hsilva13",
-            "awarder": "Scrum Alliance",
-            "date": "2018-08-01"
         }
     ],
     "languages": [
         {
-            "language": "Spanish",
-            "fluency": "Native speaker"
-        },
-        {
             "language": "English",
             "fluency": "CEFR B2"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Native"
         }
     ],
-    "interests": [],
-    "references": []
+    "certificates": [
+        {
+            "name": "Certified Scrum Developer",
+            "date": "2018-08-01",
+            "issuer": "Scrum Alliance",
+            "url": "https://www.scrumalliance.org/community/profile/hsilva13",
+            "summary": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Git Branch from Clipboard",
+            "description": "Google Chrome utility extension to quickly create a Git branch which name is taken from the current browser tab title. Useful when Git branches need to be linked to project management tickets.",
+            "url": "https://chrome.google.com/webstore/detail/git-branch-from-clipboard/plegeiohnpblcncbddhmdbipbdhijlif",
+            "_startDate": "",
+            "_endDate": "",
+            "entity": "",
+            "type": "Google Chrome Extension",
+            "highlights": [],
+            "keywords": [
+                "JavaScript"
+            ],
+            "_roles": [
+                "Creator",
+                "Developer"
+            ]
+        },
+        {
+            "name": "CommonChars",
+            "description": "Google Chrome utility extension offering latin characters to users of english keyboards",
+            "url": "https://chrome.google.com/webstore/detail/commonchars/idpokbmjkdnilkconegegocjmogiomgi",
+            "_startDate": "",
+            "_endDate": "",
+            "entity": "",
+            "type": "Google Chrome Extension",
+            "highlights": [],
+            "keywords": [
+                "JavaScript"
+            ],
+            "_roles": [
+                "Creator",
+                "Developer"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": "",
+            "label": "",
+            "email": "",
+            "phone": "",
+            "website": "",
+            "url": ""
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "volunteer": [],
+    "interests": []
 }
